@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative 'wordfreq'
+require_relative 'wordfreq2'
 require 'minitest/pride'
 
 def fullpath(filename)
